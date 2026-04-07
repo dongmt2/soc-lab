@@ -33,3 +33,6 @@ Attacker → Web Server (Wazuh Agent) → Wazuh Server
 - SQL Injection detection
 - XSS detection
 - nmap scan port dectection
+## 🎥 Demo Video (Wazuh SOC Lab)
+
+[![Watch the demo](https://img.youtube.com/vi/55AGKXyR4IM/0.jpg)](https://www.youtube.com/watch?v=55AGKXyR4IM)
